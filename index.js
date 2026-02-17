@@ -80,3 +80,5 @@ app.get("/dashboard", verifyToken, (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server Security running on port ${PORT}`);
 });
+
+console.log("dhhjhjfjdhjdfhj")
